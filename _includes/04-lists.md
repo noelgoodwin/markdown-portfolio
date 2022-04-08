@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Noel's Favorite Things
+  * Embroidery 🧵
+  * Sunny Days in Seattle 🌞
+  * Learning new things 📖
