@@ -1,0 +1,1 @@
+I am a senior in college graduating in June with a degree in __Economics__ and minors in __Spanish__ and __Data Analytics__. I am a hard worker with experience using both *R* and *Stata* for __data and statistical analysis__. I also have a certificate and experience in using __Excel__.
